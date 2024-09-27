@@ -1,13 +1,13 @@
-## Ayushmaan Singh's Portfolio Website
+# Ayushmaan Singh's Portfolio Website
 
 Welcome to the GitHub repository for my personal portfolio website. This site is a showcase of my journey as a Computer Science student, featuring my academic background, technical skills, projects, research publications, and professional experiences.
 
-# Live Demo
+## Live Demo
 
 Check out the live version of my portfolio here:
 🔗 ayushmaan-portfolio.netlify.app
 
-# Features
+## Features
 
 Responsive Design: The website is fully responsive, ensuring accessibility on all devices.
 Interactive Projects Section: View detailed descriptions of my projects, with links to code repositories.
@@ -28,7 +28,7 @@ A collection of personal projects and internship work with descriptions and link
 3. Research
 A dedicated section for my published research, including the AI Integration in Academic Assessments article in YMER Journal.
 
-## Getting Started
+# Getting Started
 
 To run this project locally:
 
